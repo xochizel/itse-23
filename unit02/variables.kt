@@ -5,6 +5,7 @@ fun main(){
   var evenOdd = "testNumber" 
   var answer = 0
   println(evenOdd)
-  println()
-  println()
+  println(answer+1)
+  println(answer+10)
+  println(answer*10)
 }
