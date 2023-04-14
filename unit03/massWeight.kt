@@ -5,6 +5,7 @@ fun main() {
     val answer = when {
         weight > 1000 -> "heavy"
         weight < 10 -> "light"
+        else -> print("just right")
     }
     println("$answer")
 
