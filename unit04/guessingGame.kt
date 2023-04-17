@@ -2,7 +2,6 @@ import kotlin.random.Random
 
 fun main() {
     val random = Random.nextInt(10)
-    println("$random")
 
     do {
         println("enter number")
